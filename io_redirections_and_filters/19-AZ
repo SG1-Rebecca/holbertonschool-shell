@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'The Akatsuki is the largest criminal organization in the ninja world.' | tr 'Ac' 'Ze'
+echo 'The Akatsuki is the largest criminal organization in the ninja world.' | tr Ac Ze
